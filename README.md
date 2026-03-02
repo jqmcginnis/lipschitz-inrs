@@ -1,6 +1,5 @@
 ## Beyond Uniformity: Regularizing Implicit Neural Representations through a Lipschitz Lens 
-
-[[Paper]](https://openreview.net/forum?id=REEdaR0zqj) [[PDF]](https://openreview.net/pdf?id=REEdaR0zqj) [[Project Page]](https://lipschitz-inrs.github.io)
+[[Paper]](https://openreview.net/pdf?id=REEdaR0zqj) [[Project Page]](https://lipschitz-inrs.github.io)
 
 ---
 
