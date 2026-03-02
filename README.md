@@ -1,4 +1,4 @@
-## [ICLR'26] Beyond Uniformity: Regularizing Implicit Neural Representations through a Lipschitz Lens 
+## [ICLR'26] :sparkles: Beyond Uniformity: Regularizing Implicit Neural Representations through a Lipschitz Lens 🔎
 [[Paper]](https://openreview.net/pdf?id=REEdaR0zqj) [[Project Page]](https://lipschitz-inrs.github.io)
 
 ---
@@ -70,10 +70,8 @@ Images used for **scaling of initialization** experiments:
 Please register for data access [here](https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/index.html). Data location: `./data/IDIR/`
 
 For mask generation, follow the instructions in [this issue](https://github.com/MIAGroupUT/IDIR/issues/9). We reuse the file structure of the [official repo](https://github.com/MIAGroupUT/IDIR) and use all 10 cases.
----
 
 ---
-
 ### Citation
 
 ```bibtex
